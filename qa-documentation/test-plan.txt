@@ -1,0 +1,36 @@
+TEST PLAN 1 for DUEL DUO WEBAPP 
+
+Overview:
+
+Test the functionalit of the Duel Duo webpage
+
+Links:
+
+http://localhost:4000/
+
+Test Criteria:
+
+-Ensure that all robots appear upon click of see all bots button
+
+-ensure that 5 random robots are displayed upon click of draw button
+
+-ensure that after drawing 5, user is able to select two robots(no more than two) for their Duo
+
+-ensure that user is able to put his duo against computer duo
+
+-ensure that score updates on screen according to who wins
+
+Entry Criteria:
+-has internet access
+
+-has access to files provided for WEBAPP
+
+-has a non-mobile web browser
+
+Exit Criteria:
+
+-All tests pass
+
+Other Details:
+
+-This assumes that user has fairly fast internet and machine

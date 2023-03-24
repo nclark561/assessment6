@@ -1,0 +1,15 @@
+TEST CASE 1 (under TEST PLAN 1)
+
+Description:
+
+Screen should display all robots upon click of button that says see all bots
+
+Steps:
+
+1.Load up webapp on local host port 4000 while server.js is running
+
+2.click on the button displayed on the screen that is labeled "see all bots"
+
+Post Contditions:
+
+- All robots in the  system should appear on the screen
